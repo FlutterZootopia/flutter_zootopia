@@ -1,2 +1,2 @@
 # flutter_zootopia
-flutter_zootopia mian project.
+flutter_zootopia home page.
